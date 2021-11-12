@@ -15,3 +15,5 @@ func main() {
 	fmt.Println(y)
 	fmt.Println(z)
 }
+
+// https://play.golang.org/p/dglPr_cqwTb
