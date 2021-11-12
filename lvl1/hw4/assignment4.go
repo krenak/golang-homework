@@ -15,9 +15,7 @@ import (
 	"fmt"
 )
 
-type (
-	ninja int
-)
+type ninja int
 
 var x ninja
 
