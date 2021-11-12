@@ -1,10 +1,10 @@
-//- Use var para declarar três variáveis. Elas devem ter package-level scope. Não atribua valores a estas variáveis. Utilize os seguintes identificadores e tipos para estas variáveis:
-//		Identificador "x" deverá ter tipo int
-//		Identificador "y" deverá ter tipo string
-//		Identificador "z" deverá ter tipo bool
-//- Na função main:
-//		Demonstre os valores de cada identificador
-//		O compilador atribuiu valores para essas variáveis. Como esses valores se chamam?
+// - Use var to declare three variables. They must have package-level scope. Do not assign values to these variables. Use the following identifiers and types for these variables:
+// 		Identifier "x" must have type int
+// 		Identifier "y" must have string type
+// 		Identifier "z" must have bool type
+// - In the main function:
+// 		Demonstrate the values of each identifier
+// 		The compiler assigned values to these variables. What are these values called?
 
 package main
 

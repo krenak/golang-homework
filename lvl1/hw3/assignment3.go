@@ -1,11 +1,11 @@
-//- Utilizando a solução do exercício anterior:
-//		Em package-level scope, atribua os seguintes valores às variáveis:
-//		para "x" atribua 42
-//		para "y" atribua "James Bond"
-//		para "z" atribua true
-//	Na função main:
-//		Use fmt.Sprintf para atribuir todos esses valores a uma única variável. Faça essa atribuição de tipo string a uma variável de nome "s" utilizando o operador curto de declaração.
-//		Demonstre a variável "s".
+// - Using the solution from the previous exercise:
+// 		In package-level scope, assign the following values to the variables:
+// 		for "x" assign 42
+// 		for "y" assign "James Bond"
+// 		for "z" set true
+// - In the main function:
+// 		Use fmt.Sprintf to assign all these values to a single variable. Make this string type assignment to a variable named "s" using the short declaration operator.
+// 		Demonstrate the variable "s".
 
 package main
 

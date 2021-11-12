@@ -1,3 +1,12 @@
+// - Using the short declaration operator, assign these values to variables with identifiers "x", "y", and "z".
+//      1. 42
+//      2. "James Bond"
+//      3. true
+// - Now demonstrate the values in these variables, with:
+//      1. A single print statement
+//      2. Multiple print statements
+// - Solution: https://play.golang.org/p/yYXnWXIQNa
+
 package main
 
 import (
