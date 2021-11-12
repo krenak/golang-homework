@@ -6,9 +6,10 @@ Sadly - for some, the series is in portuguese.
 
 ## Getting hands dirty
 If you are interest in Golang as well as I am and feel like helping, by all means, go for it! All help is more than welcomed here! :)
+
 To do so, it only requires a bit of [Git knowledge](https://git-scm.com/docs) and some few minutes setting up things. Also, highly recommended for those who are not familiar with the Git workflow, [GitHub Docs](https://docs.github.com/en) offers a quite comprehensive and well-organized documentation about this versioning tool.
 
-First, configure your Git credentials locally by typing:
+For a quick start, configure your Git credentials locally by typing:
 
 ```Git
 git config user.name "Your Name"
