@@ -1,81 +1,72 @@
 Variáveis, Valores & Tipos
+
 Gesamtpunktzahl 25/32
+
 Esse questionário vai reforçar os conceitos que você está aprendendo. Ao resolver estas questões, você estará se tornando um(a) programador(a) mais competente!
  
 Qual o menor elemento de um programa que expressa uma ação a ser executada?
 1/1
-Uma declaração (statement)
- 
+x Uma declaração (statement)
 Uma expressão
  
 A combinação de um ou mais valores, constantes, variáveis, operadores e funções que a linguagem interpreta e usa para produzir outro valor é:
 1/1
 Uma declaração (statement)
-Uma expressão
+x Uma expressão
  
  
 Quais são os parênteses?
 1/1
-()
- 
+x () 
 []
 {}
  
 Quais os são colchetes?
 1/1
 ()
-[]
- 
+x []
 {}
  
 Quais as são chaves?
 1/1
 ()
 []
-{}
- 
+x {}
  
 A abrangência de uma variável designa onde no código você pode acessar esta variável, e atribuir ou ler valores dela.
 1/1
 Verdade
- 
 Mentira
  
 Um tipo de dados primitivo é um tipo composto, criado a partir dos outros tipos básicos que já vem de fábrica na linguagem.
 1/1
 Verdade
-Mentira
- 
+Mentira 
  
 O tipo int é um tipo de dados primitivo.
 1/1
-Verdade
- 
+x Verdade
 Mentira
  
 O tipo string é um tipo de dados composto.
 1/1
 Verdade
-Mentira
- 
+x Mentira 
  
 Um tipo de dados composto permite que você crie estruturas formadas de outros tipos.
 1/1
 Verdade
- 
-Mentira
+x Mentira
  
 Quando declaramos uma variável com a palavra-chave var e não atribuímos nenhum valor a esta variável, o compilador designa para esta um valor padrão, chamado de valor zero.
 1/1
-Verdade
- 
+x Verdade
 Mentira
  
 Palavras-chave servem a propósitos específicos, mas fora isso podem ser usados livremente ao longo do programa.
 1/1
 Verdade
-Mentira
- 
+x Mentira 
  
 Palavras-chave e palavras reservadas designam coisas diferentes.
 0/1
@@ -96,8 +87,7 @@ Mentira
 Em 2 + 2, os números 2 são os operadores.
 1/1
 Verdade
-Mentira
- 
+x Mentira
  
 O termo package é uma palavra-chave
 0/1
@@ -110,94 +100,84 @@ Verdade
 O termo variable é uma palavra-chave.
 1/1
 Verdade
-Mentira
- 
+x Mentira
  
 O ponto de entrada para todos os programas é a função main(), que deve ficar dentro do package main.
 1/1
-Verdade
- 
+x Verdade
 Mentira
  
 O operador curto de declaração poder ser utilizado ao invés de var em todas as situações.
 1/1
 Verdade
-Mentira
- 
+x Mentira 
  
 Quando vemos fmt.Println(), isto está chamando a função Println() que pertence ao pacote fmt.
 1/1
-Verdade
- 
+x Verdade 
 Mentira
  
 Identificador é o nome atribuído a uma variável, função ou constante.
 1/1
-Verdade
- 
+x Verdade
 Mentira
  
 Para utilizar uma função, variável ou constante de outro package utiliza-se o formato "package-ponto-identificador". Por exemplo, fmt.Println().
 1/1
-Verdade
- 
+x Verdade
 Mentira
  
 Qual o caractere que permite "jogar fora" um valor? Ou seja, qual caractere permite que você diga ao programa que não vai utilizar o valor retornado por uma função?
 1/1
 #
 @
-_
- 
+x _
 $
 Isso é pegadinha
  
 Em Go, não é permitido haver variáveis que não sejam utilizadas.
 0/1
 Verdade
-Mentira
- 
+x Mentira
+
 Richtige Antwort
 Verdade
  
 Uma função cujo parâmetro é "...interface{}" é uma função variádica. Isso significa que você pode passar à função um número pré-determinado de valores.
 0/1
-Verdade
- 
+x Verdade
 Mentira
+
 Richtige Antwort
 Mentira
  
 Todo valor em Go pertence também ao tipo interface vazia, representado pela notação "interface{}".
 1/1
-Verdade
- 
+x Verdade 
 Mentira
  
 2 + 3 é uma declaração/statement, não uma expressão.
 1/1
 Verdade
-Mentira
+x Mentira
  
  
 2 + 3 é uma expressão, não uma declaração/statement.
 1/1
-Verdade
- 
+x Verdade
 Mentira
  
 Se eu quiser salvar o resultado de um format printing em uma variável, posso usar a função fmt.Sprintf().
 0/1
 Verdade
-Mentira
+x Mentira
  
 Richtige Antwort
 Verdade
  
 Em Go, podemos criar nossos proprios tipos.
 0/1
-Verdade
- 
+x Verdade
 Mentira
 Richtige Antwort
 Mentira
@@ -205,11 +185,9 @@ Mentira
 Em Go, utilizamos o termo "coerção", diferentemente de Java, por exemplo, onde utiliza-se "conversão".
 1/1
 Verdade
-Mentira
- 
+x Mentira
  
 Todo tipo criado pelo(a) programador(a) possui um tipo subjacente.
 1/1
-Verdade
- 
+x Verdade
 Mentira
