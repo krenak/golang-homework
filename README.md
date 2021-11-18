@@ -6,7 +6,33 @@ Sadly - for some, the series is in portuguese.
 
 ## Sylabus
 Overall, the structure is sectioned in 27 chapters, as follows:
-(01) Prelude (02) Variables, values and types (03) Variables, values and types assignments (04) Programming fundamentals (05) Programming fundamentals assignments (06) Flow control (07) Flow control assignments (08) Data struture (09) Data struture assignments (10) Structs (11) Structs assignments (12) Functions (13) Functions assignments (14) Pointers (15) Pointers assignments (16) API (17) API assignments (18) Concurrence (19) Environment and development (20) Environment and development assignments (21) Channels (22) Channels assignments (23) Try and catch (24) Try and catch assignments (25) Documentation (26) Documentation assignments (27) Testing and benchmarks
+(01) Prelude 
+(02) Variables, values and types 
+(03) Variables, values and types assignments 
+(04) Programming fundamentals 
+(05) Programming fundamentals assignments 
+(06) Flow control 
+(07) Flow control assignments 
+(08) Data struture 
+(09) Data struture assignments 
+(10) Structs 
+(11) Structs assignments 
+(12) Functions 
+(13) Functions assignments 
+(14) Pointers 
+(15) Pointers assignments 
+(16) API 
+(17) API assignments 
+(18) Concurrence 
+(19) Environment and development 
+(20) Environment and development assignments 
+(21) Channels 
+(22) Channels assignments 
+(23) Try and catch 
+(24) Try and catch assignments 
+(25) Documentation 
+(26) Documentation assignments 
+(27) Testing and benchmarks
 
 ## Getting hands dirty
 If you are interest in Golang as well as I am and feel like helping, by all means, go for it! All help is more than welcomed here! :)
