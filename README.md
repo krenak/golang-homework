@@ -6,7 +6,7 @@ Sadly - for some, the series is in portuguese.
 
 ## Sylabus
 Overall, the structure is sectioned in 27 chapters, as follows:
-1. [Prelude](https://gitlab.com/krenak/golang-homework/-/tree/main/lvl1)
+1. [Introduction course](https://gitlab.com/krenak/golang-homework/-/tree/main/lvl1)
 2. [Variables, values and types](https://gitlab.com/krenak/golang-homework/-/tree/main/lvl2)
 3. Variables, values and types assignments
 4. [Programming fundamentals](https://gitlab.com/krenak/golang-homework/-/tree/main/lvl3)
