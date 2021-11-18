@@ -14,5 +14,5 @@ func main() {
 
 	fmt.Printf("%d <- decimal\n", x)
 	fmt.Printf("%b <- binary\n", y)
-	fmt.Printf("%x <- hex\n", z)
+	fmt.Printf("%#x <- hex\n", z) // include # to hex explicitation
 }
