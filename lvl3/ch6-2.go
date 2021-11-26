@@ -18,7 +18,8 @@
 // 	}
 
 // For statements with range clause
-// RangeClause = [ ExpressionList "=" | IdentifierList ":=" ] "range" Expression .
+// RangeClause = [ ExpressionList "=" | IdentifierList ":=" ]
+// "range" Expression .
 // 	ex.1
 // 	var a [10]string
 // 	for i, s := range a {
