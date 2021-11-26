@@ -11,7 +11,7 @@ Overall, the structure is sectioned in 27 chapters, as follows:
 3. Variables, values and types assignments
 4. [Programming fundamentals](https://gitlab.com/krenak/golang-homework/-/tree/main/lvl3)
 5. Programming fundamentals assignments 
-6. Flow control 
+6. [Flow control](https://gitlab.com/krenak/golang-homework/-/tree/main/lvl3)
 7. Flow control assignments 
 8. Data struture 
 9. Data struture assignments 
