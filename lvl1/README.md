@@ -3,7 +3,7 @@ This level brushes _the fundamentals of Golang programming_, presenting from bas
 Once again, is good to have a guide list to fast-forward to the right direction when searching for info in this repo.
 
 ## Chapter 1
-Chapter 1 (and its assignment Chapter 2) is sectioned differently of forward sections, where it is only homework content. Check out any of the following HW's, put together as:
+Chapter 1 (and its assignment branch, Chapter 2) is sectioned differently of forward sections, where it is only homework content. Check out any of the following HW's, put together as:
 1. [Short Declaration Operator](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl1/hw1/assignment1.go)
 2. [Format printing](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl1/hw2/assignment2.go)
 3. [String printing](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl1/hw3/assignment3.go)

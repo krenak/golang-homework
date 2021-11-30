@@ -8,6 +8,8 @@ import (
 	"fmt"
 )
 
+var x interface{}
+
 func main() {
 
 	switch x.(type) {
