@@ -3,7 +3,7 @@ This level tests _variable, values and types_ of Golang programming, presenting 
 Once again, is good to have a guide list to fast-forward to the right direction when searching for info in this repo.
 
 ## Chapter 4
-Chapter 4 is so far sectioned as follows:
+Chapter 4 (and its assignment Chapter 5) is so far sectioned as follows:
 1. [Boolean types](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl2/ch4-1.go)
 2. [Numeric types](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl2/ch4-3.go)
 3. [Overflow](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl2/ch4-4.go)
