@@ -10,9 +10,22 @@ import(
 )
 
 func main() {
-	// the range of ASCII's letters in all caps is from 65 to 90, then
-	for i:=65; i <= 90; i++ { // (i >= 65 && i <= 90); i++ <-- my
-		// overbloatted solution...
-		fmt.Printf("%d\n %#U\n %#U\n %#U\n", i, i, i, i)
+	// my solution went a bit ahead of what was asked...
+	for i:=1989; i <= 2021; i++ {
+		for i == 1989 {
+			fmt.Println("The year I was born is", i,
+				     "and since have pass these ")
+			i++
+			break
+		}
+		fmt.Printf("%d\n", i)
+	}
+	// and her solution was
+	anoemqueeunasci := 1988
+	anoatequaleuquerocontar := 2088
+
+	for anoemqueeunasci <= anoatequaleuquerocontar {
+		fmt.Println(anoemqueeunasci)
+		anoemqueeunasci++
 	}
 }
