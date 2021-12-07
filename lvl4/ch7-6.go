@@ -10,11 +10,14 @@ import(
 )
 
 func main() {
-	// my solution was wrong, but I chose to keep it as a reminder.
-	for i := 10; i <= 100; i++ {
-		if (i % 4 != 0 && i % 4 == 0) {
-			continue
-		}
-		fmt.Println(i)
+	// simple example that enforces the boolean nature of if statement.
+	i := 23
+	if i >= 10 {
+		fmt.Printf("%d", i)
 	}
+	// other interesting snippet I've found in Effective Go
+	// if err := file.Chmod(0664); err != nil {
+	//	log.Print(err)
+	//	return err
+	// }
 }
