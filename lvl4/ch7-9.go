@@ -1,6 +1,7 @@
-// Assignment 18 (Chapter 7 - episode 7)
+// Assignment 20 (Chapter 7 - episode 9)
 // - Create a program that uses the switch statement, where the switch statement is a string variable with the identifier "esporteFavorito".
 // - Solution: https://play.golang.org/p/4-iTPZwfEz
+// https://go.dev/ref/spec#Switch_statements
 // https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#loops-break--continue
 
 package main
@@ -9,15 +10,40 @@ import(
 	"fmt"
 )
 
+var esporteFavorito interface{}
+// var esporteFavorito1 interface{}
+
 func main() {
 	// simple switch implementation
-	i := 100
-	switch {
-	case i >= 300:
-		fmt.Println("It's f*cking hot out here!!")
-	case i < 300 && i != 100:
-		fmt.Println("Hmm, it's chilling now...")
-	case i == 100:
-		fmt.Println("Also, it is getting fricking cold.")
+//	esporteFavorito = "soccer"
+//
+//	switch esporteFavorito.(type) {
+//	case string:
+//		fmt.Println("How about Champions League this year?")
+//	case int:
+//		fmt.Println("Does your volleyball team got any gold medal?")
+//	case float64:
+//		fmt.Println("Dude, Celtics are over the roof this year, huh?")
+//	}
+	// funny thing is I did the correct answer before consult my notes... but
+	// here it is what I came up.
+	switch esporteFavorito := "basketball"; {
+	case esporteFavorito == "soccer":
+		fmt.Println("How about Champions League this year?")
+	case esporteFavorito == "volleyball":
+		fmt.Println("Does your volleyball team got any gold medal?")
+	case esporteFavorito == "basketball":
+		fmt.Println("Dude, Celtics are over the roof this year, huh?")
+	}
+	// and here is her solution mixed with mine beforehand...
+	esporteFavorito := "volleyball"
+
+	switch esporteFavorito {
+	case "soccer":
+		fmt.Println("How about Champions League this year?")
+	case "volleyball":
+		fmt.Println("Does your volleyball team got any gold medal?")
+	case "basketball":
+		fmt.Println("Dude, Celtics are over the roof this year, huh?")
 	}
 }

@@ -1,6 +1,6 @@
-// Assignment 18 (Chapter 7 - episode 7)
-// - Using the previous solution, add the else if and else options.
-// - Solution: https://play.golang.org/p/_cO7E-yL0o
+// Assignment 19 (Chapter 7 - episode 8)
+// - Create a program that uses the switch statement, with no switch statement specified.
+// - Solution: https://play.golang.org/p/TyIGp4Hi8B
 // https://github.com/ellenkorbes/aprendago/blob/master/OUTLINE.md#loops-break--continue
 
 package main
