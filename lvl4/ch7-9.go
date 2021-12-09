@@ -25,8 +25,8 @@ func main() {
 //	case float64:
 //		fmt.Println("Dude, Celtics are over the roof this year, huh?")
 //	}
-	// funny thing is I did the correct answer before consult my notes... but
-	// here it is what I came up.
+	// funny thing is I did the correct answer before consult my notes...
+	// in any case, here it is what I came up.
 	switch esporteFavorito := "basketball"; {
 	case esporteFavorito == "soccer":
 		fmt.Println("How about Champions League this year?")
