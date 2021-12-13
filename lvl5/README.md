@@ -3,7 +3,7 @@ This level will take mainly _data structures_ of Golang programming, talking abo
 Hence, it is good to have some guide list and go after the right direction when searching for info here.
 
 ## Chapter 8
-Chapter 8 (and its assignment branch, Chapter 9) is so far sectioned as follows:
+[Chapter 8](https://www.youtube.com/watch?v=i_3O4ooSVCM&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=59) (and its assignment branch, Chapter 9) is so far sectioned as follows:
 1. [For statement: fundamentals](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-2.go)
 2. [For statement: break](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-4.go)
 3. [For statement: continue](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-5.go)
