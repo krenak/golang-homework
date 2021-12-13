@@ -4,12 +4,7 @@ Hence, it is good to have some guide list and go after the right direction when 
 
 ## Chapter 8
 [Chapter 8](https://www.youtube.com/watch?v=i_3O4ooSVCM&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=59) (and its assignment branch, Chapter 9) is so far sectioned as follows:
-1. [For statement: fundamentals](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-2.go)
-2. [For statement: break](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-4.go)
-3. [For statement: continue](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-5.go)
-4. [For statement: surprise challenge](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-6.go)
-5. [If statement: fundamentals](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-7.go)
-6. [If statement: if/elseif/else](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-8.go)
-7. [Switch: cases, fallthrough, default](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-9.go)
-8. [Switch: documentation](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-10.go)
-9. [Logical Condition Operators](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl3/ch6-11.go)
+1. [Data structures: Arrays](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-1.go)
+2. [Data structures: Slices](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-2.go)
+3. [Data structures: Ranges](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-3.go)
+
