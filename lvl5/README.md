@@ -11,5 +11,5 @@ Hence, it is good to have some guide list and go after the right direction when 
 5. [Data structures: Append](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-3.go)
 6. [Data structures: Make](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-6.go)
 7. [Data structures: Slices multi-dimensional](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-7.go)
-8. _Ongoing_ [Data structures: Slices multi-dimensional](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-8.go)
+8. _Ongoing_ [Data structures: Adjacent Arrays](https://gitlab.com/krenak/golang-homework/-/blob/main/lvl5/ch8-8.go)
 
