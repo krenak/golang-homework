@@ -22,12 +22,19 @@ import(
 )
 
 func main() {
-	flavours := []string{"pepperoni", "mozzarela", "fourcheeses", "marguerita"}
+	flavours := []string{"pepperoni", "mozzarela", "fourcheeses",
+			     "marguerita"}
 	slice := flavours[0:2]
 	fmt.Println(slice)
 	slice2 := flavours[1:len(flavours)]
 	fmt.Println(slice2)
-	// extra exercise: access all slice items *without* use range statement.
-	slice3 := flavours[0:len(flavours)]
+	// extra exercise: access all slice items *without* use range statement
+	// slice3 := flavours[0:len(flavours)] <-- i did *with* a range uwu
+	slice3 := flavours[ : ] // one way of doing it
 	fmt.Println(slice3)
+	fmt.Println(flavours[0], flavours[1], flavours[2], flavours[3]) // another way
+	// of doing it
+	for i := 0; i < len(flavours); i++ { // last idea of doing it
+		fmt.Println(flavours[i])
+	}
 }
