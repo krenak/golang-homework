@@ -1,4 +1,4 @@
-/* Data structure - Slice multi-dimensional (Chapter 8 - Episode 8)
+/* Data structure - Adjacent array (Chapter 8 - Episode 8)
 https://pkg.go.dev/builtin@go1.17.5#append
 https://youtu.be/dRNNC7VpztE
 
@@ -26,6 +26,10 @@ import(
 
 func main() {
 	slice1 := []int{1, 2, 3, 4, 5}
-	slice2 := append(slice1[:2], slice1[4:])
-	fmt.Println(slice2)
+	fmt.Println(slice1) // printing values as allocated above
+	slice2 := append(slice1[:2], slice1[4:]...)
+	fmt.Println(slice2) /* now, after those values were reallocated above,
+	its printed the append result */
+	fmt.Println(slice1) /* afterwards, it is clear that the first slice is
+	now modificated, which can be a problem to futher dev */
 }
