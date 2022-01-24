@@ -17,8 +17,8 @@ func main() {
 	fmt.Println(array)
 	for _, v := range array {
 		fmt.Println(v)
-		fmt.Printf("%T", array)
 	}
+	fmt.Printf("%T", array)
 }
 
 
